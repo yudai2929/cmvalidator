@@ -67,7 +67,7 @@ func main() {
     }
 }
 ```
-[validator.go](validator.go)
+
 ### 3. Error Handling
 The custom validation errors can be accessed and managed using the `CustomMessage` method:
 ```go
